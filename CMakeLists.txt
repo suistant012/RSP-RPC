@@ -8,4 +8,5 @@ include_directories(include)
 
 add_executable(rsp_rpc
     src/main.cpp
+    src/server_network.cpp
 )
